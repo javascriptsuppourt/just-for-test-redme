@@ -1,37 +1,3 @@
-<!doctype html>
-<html class="no-js" lang="">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-  <link rel="stylesheet" href="css/style.css">
-  <meta name="description" content="">
-
-  <meta property="og:title" content="">
-  <meta property="og:type" content="">
-  <meta property="og:url" content="">
-  <meta property="og:image" content="">
-  <meta property="og:image:alt" content="">
-
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="icon" href="/icon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="icon.png">
-
-  <link rel="manifest" href="site.webmanifest">
-  <meta name="theme-color" content="#fafafa">
-</head>
-
-<body>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
 <div align="center">
   <a href="https://t.me/zar_arz_bot">
     <img src="https://img.shields.io/badge/Telegram-Start_Bot-blue?style=for-the-badge&logo=telegram" alt="Start Bot"/>
@@ -44,7 +10,7 @@
   </a>
 
   <h1>🚀 MarketPulse | Financial Tracker Bot</h1>
-  <h3 style="font-family: Vazir">ربات تلگرامی دریافت قیمت لحظه‌ای طلا و دلار (زر ارز)</h3>
+  <h3 style="font-family: Vazirmatn">ربات تلگرامی دریافت قیمت لحظه‌ای طلا و دلار (زر ارز)</h3>
 
   <p>
     <b>Real-time tracking for Gold, Currencies, and Cryptocurrencies on Telegram.</b>
@@ -118,8 +84,8 @@
 <h3>Step-by-Step Guide</h3>
 
 <p><b>1. Clone the Repository</b></p>
-<pre><code>git clone https://github.com/farideghbali/MarketPulse-Telegram-Bot.git
-cd MarketPulse-Telegram-Bot</code></pre>
+<pre><code>git clone https://github.com/farideghbali/MarketPulse-Telegram-Bot.git</code>
+<code>cd MarketPulse-Telegram-Bot</code></pre>
 
 <p><b>2. Install Dependencies</b></p>
 <pre><code>pip install -r requirements.txt</code></pre>
@@ -127,10 +93,9 @@ cd MarketPulse-Telegram-Bot</code></pre>
 <p><b>3. Environment Configuration</b></p>
 <p>Create a <code>.env</code> file in the root directory. Add the following variables:</p>
 <pre><code># Your Telegram Bot Token (Get this from @BotFather)
-API_TOKEN=your_telegram_bot_token_here
-
-# The endpoint for fetching market prices
-API_URL=your_price_api_endpoint_here</code></pre>
+API_TOKEN=your_telegram_bot_token_here</code>
+<code># The endpoint for fetching market prices
+  API_URL=your_price_api_endpoint_here</code></pre>
 
 <p><b>4. Run the Bot</b></p>
 <pre><code>python main.py</code></pre>
@@ -173,9 +138,3 @@ API_URL=your_price_api_endpoint_here</code></pre>
 <p>
   <b>Project Link:</b> <a href="https://github.com/farideghbali/MarketPulse-Telegram-Bot">https://github.com/farideghbali/MarketPulse-Telegram-Bot</a>
 </p>
-</body>
-</html>
-
-</body>
-
-</html>
