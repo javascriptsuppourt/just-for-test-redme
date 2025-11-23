@@ -10,7 +10,7 @@
   </a>
 
   <h1>🚀 MarketPulse | Financial Tracker Bot</h1>
-  <h3 style="font-family: Vazirmatn">ربات تلگرامی دریافت قیمت لحظه‌ای طلا و دلار (زر ارز)</h3>
+  <h3>ربات تلگرامی دریافت قیمت لحظه‌ای طلا و دلار (زر ارز)</h3>
 
   <p>
     <b>Real-time tracking for Gold, Currencies, and Cryptocurrencies on Telegram.</b>
@@ -84,8 +84,8 @@
 <h3>Step-by-Step Guide</h3>
 
 <p><b>1. Clone the Repository</b></p>
-<pre><code>git clone https://github.com/farideghbali/MarketPulse-Telegram-Bot.git</code>
-<code>cd MarketPulse-Telegram-Bot</code></pre>
+<pre><code>git clone https://github.com/farideghbali/MarketPulse-Telegram-Bot.git</code></pre>
+<pre><code>cd MarketPulse-Telegram-Bot</code></pre>
 
 <p><b>2. Install Dependencies</b></p>
 <pre><code>pip install -r requirements.txt</code></pre>
@@ -94,6 +94,7 @@
 <p>Create a <code>.env</code> file in the root directory. Add the following variables:</p>
 <pre><code># Your Telegram Bot Token (Get this from @BotFather)
 API_TOKEN=your_telegram_bot_token_here</code>
+  <br>
 <code># The endpoint for fetching market prices
   API_URL=your_price_api_endpoint_here</code></pre>
 
