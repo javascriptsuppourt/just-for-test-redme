@@ -103,7 +103,7 @@ API_TOKEN=your_telegram_bot_token_here</code>
 
 <hr/>
 
-<h2>🤝 Contributing & Usage Policy</h2>
+<h2>🤝 Contributing</h2>
 
 <p>
   Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions
@@ -116,19 +116,16 @@ API_TOKEN=your_telegram_bot_token_here</code>
   <li>4. Push to the Branch (`git push origin feature/AmazingFeature`)</li>
   <li>5. Open a Pull Request</li>
 </ul>
-<h3>⚠️ License & Usage Terms</h3>
+<hr>
+<h2>⚠️ License & Attribution</h2>
 <p>
-  Please note the following terms regarding the use of this software:
+  Distributed under the <b>MIT License</b>. See <code>LICENSE</code> file for more information.
 </p>
-<ul>
-  <li>✅ <b>Non-Commercial Use:</b> You are free to use, modify, and study this code for personal, educational, or
-    non-profit purposes.
-  </li>
-  <li>🚫 <b>Commercial Use Prohibited:</b> Any commercial use including to selling the source code,
-    charging for subscriptions based on this bot, or presenting/selling this project as your own commercial product—is
-    <b>strictly prohibited</b>.
-  </li>
-</ul>
+<p>
+  You are free to use, modify, and study this code. The only requirement is that you <b>must credit the original source</b>.
+  <br />
+  If you use this project (or parts of it) in your own works, please explicitly mention the author and link back to this repository.
+</p>
 
 <hr/>
 
