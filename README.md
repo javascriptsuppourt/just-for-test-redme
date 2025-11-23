@@ -132,7 +132,9 @@ API_TOKEN=your_telegram_bot_token_here</code>
 <h2>📩 Contact</h2>
 
 <p>If you have any questions or suggestions, feel free to reach out.</p>
-
+<p>
+  <b>Email</b> <a href="mailto:farideghbali.dev@gmail.com">farideghbali.dev@gmail.com</a>
+</p>
 <p>
   <b>Project Link:</b> <a href="https://github.com/farideghbali/MarketPulse-Telegram-Bot">https://github.com/farideghbali/MarketPulse-Telegram-Bot</a>
 </p>
