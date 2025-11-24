@@ -88,7 +88,7 @@
 <pre><code>cd MarketPulse-Telegram-Bot</code></pre>
 
 <p><b>2. Create & Activate Virtual Environment (Recommended)</b></p>
-
+<p>It keeps dependencies isolated from your system Python.</p>
 <p><u>Windows:</u></p>
 <pre><code>python -m venv venv</code></pre>
 <pre><code>venv\Scripts\activate</code></pre>
