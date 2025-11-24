@@ -95,7 +95,7 @@
 
 
 <p><u>macOS / Linux:</u></p>
-python3 -m venv venv</code></pre>
+<pre><code>python3 -m venv venv</code></pre>
 <pre><code>source venv/bin/activate</code></pre>
 
 
