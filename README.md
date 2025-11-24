@@ -77,7 +77,7 @@
 
 <h3>Prerequisites</h3>
 <ul>
-  <li>Python 3.8 or higher</li>
+  <li>Python 3.13 or higher</li>
   <li>Git</li>
 </ul>
 
@@ -87,10 +87,22 @@
 <pre><code>git clone https://github.com/farideghbali/MarketPulse-Telegram-Bot.git</code></pre>
 <pre><code>cd MarketPulse-Telegram-Bot</code></pre>
 
-<p><b>2. Install Dependencies</b></p>
+<p><b>2. Create & Activate Virtual Environment (Recommended)</b></p>
+
+<p><u>Windows:</u></p>
+<pre><code>python -m venv venv</code></pre>
+<pre><code>venv\Scripts\activate</code></pre>
+
+
+<p><u>macOS / Linux:</u></p>
+python3 -m venv venv</code></pre>
+<pre><code>source venv/bin/activate</code></pre>
+
+
+<p><b>3. Install Dependencies</b></p>
 <pre><code>pip install -r requirements.txt</code></pre>
 
-<p><b>3. Environment Configuration</b></p>
+<p><b>4. Environment Configuration</b></p>
 <p>Create a <code>.env</code> file in the root directory. Add the following variables:</p>
 <pre><code># Your Telegram Bot Token (Get this from @BotFather)
 API_TOKEN=your_telegram_bot_token_here</code>
@@ -133,7 +145,7 @@ API_TOKEN=your_telegram_bot_token_here</code>
 
 <p>If you have any questions or suggestions, feel free to reach out.</p>
 <p>
-  <b>Email</b> <a href="mailto:farideghbali.dev@gmail.com">farideghbali.dev@gmail.com</a>
+  <b>Email:</b> <a href="mailto:farideghbali.dev@gmail.com">farideghbali.dev@gmail.com</a>
 </p>
 <p>
   <b>Project Link:</b> <a href="https://github.com/farideghbali/MarketPulse-Telegram-Bot">https://github.com/farideghbali/MarketPulse-Telegram-Bot</a>
